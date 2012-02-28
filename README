@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3955
+
+When searching through code one often needs to add more related
+terms to the search. For example, if I found a call to a function inside
+a different one, or when a type is typedef'ed to something else (in C).
+This module aims to allow you to convenietly add search terms to the search
+so you can find all the occurences of all of them.
+
